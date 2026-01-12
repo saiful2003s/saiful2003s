@@ -1,29 +1,29 @@
-# Hi, I'm SAIFUL ISLAM 👋
-#### Web Developer
-![Web Developer](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/612260205_1327605176077353_2919082504730602917_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEJI0B0EUSzTaUZMtsk0HMKEOwcqGbOnOsQ7ByoZs6c60Zyq4mkVdrTLz_XTLSGTcoIJ3Kymb2eau_vd9_e-p8j&_nc_ohc=hoc0siwhME8Q7kNvwH9CmWi&_nc_oc=AdkZQyY_lznJN9yNgD9PCxfPG8yPf2JHrGIYF6Ye56f-9fNQf8mnZ9YvAXQQURYUd1o&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=0Sko5Eko07J2eDtVQj5ctA&oh=00_AfrvdNzUqL-4EAW4BkGxm1Eg02-bJGIgvBTdXpHROlUGeQ&oe=6965EC03)
+<h1 align="center">Hi 👋, I'm MD. SAIFUL ISLAM</h1>
+<h3 align="center">Code • Create • Learn • Repeat</h3>
 
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiful2003s&label=Profile%20views&color=0e75b6&style=flat" alt="saiful2003s" /> </p>
 
-Skills:  HTML / CSS/ BOOTSRAP/ REACT / JS 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiful2003s" alt="saiful2003s" /></a> </p>
 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: on Social Media 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **JavaScript, React, WordPress, Python**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saiful2003s)  
+- 💬 Ask me about **Coding**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **md.saifulislam2003s@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saiful2003s)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-saiful-islam-105b283a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-saiful-islam-105b283a4/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mohammad.saiful.islam.771629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohammad.saiful.islam.771629" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiful2003s)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiful2003s&show_icons=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiful2003s&show_icons=true&locale=en&layout=compact" alt="saiful2003s" /></p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/saiful2003s/contributions?format=svg&private=false)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiful2003s&show_icons=true&locale=en" alt="saiful2003s" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/saiful2003s)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=saiful2003s)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiful2003s&" alt="saiful2003s" /></p>
